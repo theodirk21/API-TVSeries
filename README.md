@@ -20,4 +20,4 @@
 
 ### **Terceiro dia**
 
->No terceiro dia separei fiz umas mudanças estruturais no projeto a partir de umas leituras e vendo alguns videos. Nesse aprimoramento criei uma nova classe e separei cada parte do api para consegui acessar a todas e imprimi todas. 
+>No terceiro dia separei fiz umas mudanças estruturais no projeto a partir de umas leituras e vendo alguns videos. Nesse aprimoramento criei uma nova classe e separei cada parte do api para consegui acessar a todas e imprimi todas. Como já foi estudado e aprendido sobre a importância de deixar as coisas mais privadas e imutaveis possiveis para garantir uma estabilidade no código. Procurei trazer isso nessa parte do projeto
