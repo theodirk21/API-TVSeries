@@ -28,4 +28,4 @@
 
 ### **Quinto dia**
 
->"Realizei a encapsulação do código, aprimorando sua organização e tornando-o mais acessível para os desenvolvedores externos. Essa técnica é fundamental para garantir a reutilização do código, facilitar a manutenção e melhorar o valor agregado. Para implementá-la, criei novas classes e as instanciei na classe principal, obtendo êxito no processo. Essa abordagem contribui para a modularização do sistema e aprimoramento da qualidade do software.
+>Realizei a encapsulação do código, aprimorando sua organização e tornando-o mais acessível para os desenvolvedores externos. Essa técnica é fundamental para garantir a reutilização do código, facilitar a manutenção e melhorar o valor agregado. Para implementá-la, criei novas classes e as instanciei na classe principal, obtendo êxito no processo. Essa abordagem contribui para a modularização do sistema e aprimoramento da qualidade do software.
