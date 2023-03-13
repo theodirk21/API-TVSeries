@@ -28,4 +28,4 @@
 
 ### **Quinto dia**
 
->Nessa etapa encapsulei o código, deixando-o mais organizado e fácil de entender para quem está de fora. Essa prática é essencial para a possibilidade de reutilização de código, facilidade na manutenção e, se estiver em um projeto em grupo, facilita a interação entre os membros, além de agregar mais valor ao código. Para fazer isso, criei novas classes e as invoquei na classe principal. Tudo funcionou perfeitamente e o código está se tornando cada dia mais refinado.
+>"Realizei a encapsulação do código, aprimorando sua organização e tornando-o mais acessível para os desenvolvedores externos. Essa técnica é fundamental para garantir a reutilização do código, facilitar a manutenção e melhorar o valor agregado. Para implementá-la, criei novas classes e as instanciei na classe principal, obtendo êxito no processo. Essa abordagem contribui para a modularização do sistema e aprimoramento da qualidade do software.
