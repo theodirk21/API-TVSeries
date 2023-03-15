@@ -5,7 +5,7 @@ import java.util.List;
 
 import static java.lang.String.format;
 
-class HtmlGenerator {
+public class HtmlGenerator {
 
     private final PrintWriter writer;
 
@@ -13,7 +13,7 @@ class HtmlGenerator {
         this.writer = writer;
     }
 
-    public void generate(List<Series> series) {
+    public void generate(List<? extends Conteudo> conteudosList) {
         writer.println(
                 """
                         <html>
@@ -27,7 +27,7 @@ class HtmlGenerator {
                         	<body>
                         """);
 
-        for (Series serie : series) {
+        for (Conteudo conteudo : conteudosList) {
             String div =
                     """
                             <div class=\"card text-white bg-dark mb-3\" style=\"max-width: 18rem;\">
@@ -39,7 +39,7 @@ class HtmlGenerator {
                             </div>
                             """;
 
-            writer.println(String.format(div, serie.title(), serie.urlImage(), serie.title(), serie.rating(), serie.year()));
+            writer.println(String.format(div, conteudo.title(), conteudo.urlImage(), conteudo.title(), conteudo.rating(), conteudo.year()));
         }
 
 

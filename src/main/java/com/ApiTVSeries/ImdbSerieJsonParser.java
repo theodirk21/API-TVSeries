@@ -7,7 +7,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class ImdbSerieJsonParser {
+public class ImdbSerieJsonParser implements JsonParser{
 
     private  String json;
     public ImdbSerieJsonParser(String json) {
